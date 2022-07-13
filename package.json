@@ -1,0 +1,23 @@
+{
+  "name": "crudjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "navin@telusko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "git": "^0.1.5",
+    "json": "^11.0.0",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.13",
+    "router": "^1.3.7",
+    "schema": "^0.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
